@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Rithik’s Blog"
+title: "Welcome"
 ---
 
 Welcome to my blog 👋
