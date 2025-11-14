@@ -5,4 +5,7 @@ email: "rithikkumar53@gmail.com"
 theme: minima
 show_excerpts: true
 
-linkedin_username: rithikjha
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/rithikjha" }
