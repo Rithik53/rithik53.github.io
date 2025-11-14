@@ -1,9 +1,7 @@
 title: "Rithik's Blog"
 description: "Notes, experiments, and learnings from my journey in tech."
-
 author:
   name: "Rithik Jha"
   email: "rithikkumar53@gmail.com"
-
 theme: minima
 show_excerpts: true
