@@ -1,11 +1,8 @@
-title: "Rithik’s Blog"
+title: "Rithik Jha"
 description: "Notes, experiments, and learnings from my journey in tech."
-url: "https://rithik53.github.io"
-baseurl: ""   # keep this empty since this is your main user site
 
 author:
-  name: "Rithik Jha"
-  email: "rithikkumar53@gmail.com"   # optional
+  email: "rithikkumar53@gmail.com"   
 
 # Use GitHub's default Jekyll theme (simple and clean)
 theme: minima
