@@ -1,22 +1,9 @@
-title: "Rithik Jha"
+title: "Rithik's Blog"
 description: "Notes, experiments, and learnings from my journey in tech."
 
 author:
-  email: "rithikkumar53@gmail.com"   
+  name: "Rithik Jha"
+  email: "rithikkumar53@gmail.com"
 
-# Use GitHub's default Jekyll theme (simple and clean)
 theme: minima
-
-# Markdown + plugins
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Optional: show excerpts on home page
 show_excerpts: true
-
-# Where blog posts live
-collections:
-  posts:
-    output: true
