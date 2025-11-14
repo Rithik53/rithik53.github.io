@@ -5,3 +5,6 @@ email: "rithikkumar53@gmail.com"
 theme: minima
 show_excerpts: true
 url: "" # Add your site URL here if you have one
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/rithikjha" }
