@@ -3,12 +3,8 @@ layout: home
 title: ""
 ---
 
-Welcome to my blog 👋
+Welcome 👋
 
-I’ll be writing about:
+I'm Rithik, and this is where I document the messy, interesting parts of building software — bugs I've wrestled with, tools I'm experimenting with, and lessons learned the hard way.
 
-- Things I break and fix in code
-- Short write-ups from real-world debugging stories
-- Notes from what I’m learning
-
-Latest posts appear below 👇
+---
